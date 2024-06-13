@@ -47,7 +47,3 @@ Ce projet TP4 vise à développer une application web pour la gestion des produi
    - Création de nouveaux paiements, téléchargement de fichiers de paiement et visualisation des détails des paiements.
    - Authentification pour la gestion des utilisateurs.
 
----
-
-*Insérer ici toute autre information pertinente sur l'installation, la configuration, ou l'utilisation de l'application si nécessaire.*
-
